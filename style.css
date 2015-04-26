@@ -1,0 +1,45 @@
+* box-sizing { border-box;
+}
+
+body {
+  font-family:Helvetica,sans-serif;
+  font-size:16px
+}
+
+button {
+  background-color:#66757f;
+  color:#fff;
+  border:2px solid #66757f;
+  border-radius:2px;
+  font-size:1em
+}
+
+button:hover,button:focus {
+  background-color:#2980b9;
+  color:#fff;
+  border:2px solid #2980b9
+}
+
+.inline {
+  display:inline-block;
+  margin:3em;
+  width:200px;
+  height:200px;
+  text-align:center;
+}
+
+.big-box {
+ 
+  background-color:#66757f;
+  color:#fff;
+
+}
+
+.hover-text {
+  padding-top:2em
+}
+
+.ghosting {
+  background-color:#fff;
+  color:#fff;
+}
